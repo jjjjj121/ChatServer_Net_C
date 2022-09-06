@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\JAEM\0724 Chat Network\Chatting Select Client2\main.cpp(106,2): warning C4551: 함수 호출에 인수 목록이 없습니다.
-  Chatting Select Client2.vcxproj -> C:\JAEM\0724 Chat Network\Chatting Select Client2\Debug\Chatting Select Client2.exe
+C:\Users\user\OneDrive\바탕 화면\Project\ChatServer_Net_C\Chatting Select Client2\main.cpp(106,2): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  Chatting Select Client2.vcxproj -> C:\Users\user\OneDrive\바탕 화면\Project\ChatServer_Net_C\Chatting Select Client2\Debug\Chatting Select Client2.exe
